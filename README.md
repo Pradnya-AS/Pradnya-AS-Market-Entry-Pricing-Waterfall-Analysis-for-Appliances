@@ -20,3 +20,5 @@ This project simulates pricing strategy for launching a home appliance in intern
 - model → pricing model
 - analysis → insights
 - visuals → charts
+
+## 👤 Author - A S Pradnya** 

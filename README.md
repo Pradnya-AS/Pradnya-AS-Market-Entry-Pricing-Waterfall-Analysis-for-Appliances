@@ -1,4 +1,4 @@
-#Market-Entry-Pricing-Waterfall-Analysis-for-Appliances
+##Market-Entry-Pricing-Waterfall-Analysis-for-Appliances
 
 ## Overview
 This project simulates pricing strategy for launching a home appliance in international markets. It evaluates sourcing countries (India, Vietnam, Mexico) and sales channels (Amazon, Retail, D2C).
